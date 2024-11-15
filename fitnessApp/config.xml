@@ -8,5 +8,5 @@
     <content src="index.html" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
-    <icon src="icone.png"/>
+    <icon src="res/icone.png"/>
 </widget>
